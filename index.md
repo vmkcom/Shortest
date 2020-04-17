@@ -4,12 +4,9 @@
 <script src="https://cdn.jsdelivr.net/npm/@antimatter-dimensions/notations></script>
 </head>
 <body>
-<p onclick = "ADNotations.ScientificNotation(this.innerText++);">a</p>
-                                                                <p onclick = "a();"></p>
-                                                                                   <script> 
-                                                                                   function a(){
-                                                                                   b++;
-                                                                                   };
+             <p onclick = "this.innerText++;">0</p>
+<script> 
+                   </script>
                                                                                    
 </body>
 </html>
