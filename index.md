@@ -5,5 +5,11 @@
 </head>
 <body>
 <p onclick = "ADNotations.ScientificNotation(this.innerText++);">a</p>
+                                                                <p onclick = "a();"></p>
+                                                                                   <script> 
+                                                                                   function a(){
+                                                                                   b++;
+                                                                                   };
+                                                                                   
 </body>
 </html>
